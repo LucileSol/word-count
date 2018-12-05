@@ -12,6 +12,7 @@ word-count
 
    purpose.rst
    dependencies.rst
+   prerequisites.rst
    usage.rst
    credit.rst
    exercises.rst

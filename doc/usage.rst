@@ -6,8 +6,9 @@ Usage
 
 How to clone the code
 ---------------------
+::
 
-Write me ...
+  $ git clone https://github.com/LucileSol/word-count.git
 
 
 Make
@@ -23,10 +24,12 @@ Generate all results:
 Snakemake
 ---------
 
-Write me ...
+::
+
+  $ snakemake
 
 
 Where to find the results
 -------------------------
 
-Write me ...
+you will find results in results/
